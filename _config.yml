@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3136327
+  lightness: 0.8937125
+  brandStrength: 0.7653061
+  brandColors:
+    - '#014DAB'
+    - '#A3A3B4'
+    - '#66636F'
+    - '#E1E1DF'
+    - '#181F39'
+  rhythmicContrast: 0.8720496
+typography_spectrum: 0.1928034
+name: Trystan Trenberth
