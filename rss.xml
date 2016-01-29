@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Trystan Trenberth]]></title>
         <description><![CDATA[Trystan Trenberth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trystan-trenberth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 00:41:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 02:48:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trystan-trenberth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blurb, Blurb, Blurb,]]></title>
+            <description><![CDATA[<article><h1>Blurb, Blurb, Blurb,</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d07f477-fe4f-46db-a20a-159f4e39bf69.jpg"></article>]]></description>
+            <link>https://thegrid.ai/trystan-trenberth/blurb-blurb-blurb/index.html</link>
+            <guid isPermaLink="false">eea7cc2b-4449-4e03-876d-9e4d4ea3d804</guid>
+            <pubDate>Fri, 29 Jan 2016 02:47:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21cbe790-a765-45e2-8f4d-550ccacf69b0.jpg">]]></description>
-            <link>undefinedc4514851-d48b-4289-9980-ea56b00aee4a/index.html</link>
+            <link>https://thegrid.ai/trystan-trenberth/c4514851-d48b-4289-9980-ea56b00aee4a/index.html</link>
             <guid isPermaLink="false">c4514851-d48b-4289-9980-ea56b00aee4a</guid>
             <pubDate>Fri, 29 Jan 2016 00:41:09 GMT</pubDate>
         </item>
