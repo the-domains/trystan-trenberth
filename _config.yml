@@ -1,14 +1,7 @@
-color:
-  saturation: 0.3136327
-  brandStrength: 0.2518797
-  rhythmicContrast: 0.8720496
-  brandColors:
-    - '#014DAB'
-    - '#A3A3B4'
-    - '#66636F'
-    - '#E1E1DF'
-    - '#181F39'
-  lightness: 0.8937125
+name: Trystan Trenberth
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1928034
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.1928034
-name: Trystan Trenberth
+title: Trystan Trenberth
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#014DAB'
+    - '#A3A3B4'
+    - '#66636F'
+    - '#E1E1DF'
+    - '#181F39'
+  brandStrength: 0.2518797
+  lightness: 0.8937125
+  saturation: 0.3136327
+  rhythmicContrast: 0.8720496
+purpose: []
